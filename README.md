@@ -98,7 +98,9 @@ Text
 ├── backend/                # API Node.js (Regras de Negócio)
 ├── database/               # Modelagem de Dados
 └── validation/             # Relatórios de Validação
-<div align="center">
-<small>Desenvolvido para fins acadêmicos - 2024</small>
-</div>
+
 ```
+
+<div align="center">
+<small>Desenvolvido para fins acadêmicos - 2025</small>
+</div>
